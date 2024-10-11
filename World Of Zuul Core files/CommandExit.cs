@@ -6,3 +6,4 @@ class CommandExit : BaseCommand, ICommand {
     context.MakeDone();
   }
 }
+ 
