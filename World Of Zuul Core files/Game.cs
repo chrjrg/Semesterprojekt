@@ -1,4 +1,4 @@
-/* Main class for launching the game
+/* Main class for launching the game - This is an upgrade
  */
 
 class Game {
